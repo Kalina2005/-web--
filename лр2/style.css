@@ -1,0 +1,63 @@
+
+@font-face {
+    font-family: Overdoz;
+    src: url("overdozesans.ttf");
+}
+
+@font-face {
+    font-family: Leo;
+    src: url("ofont.ru_LeoHand.ttf");
+}
+
+@font-face {
+    font-family: Rosarium;
+    src: url("ofont.ru_Rosarium.ttf");
+}
+
+body {
+    background: #98c1d8;
+}
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.list {
+    list-style: none;
+}
+
+.links {
+    text-decoration: none;
+    color: black;
+    margin-left: -40px;
+}
+
+.links:hover {
+    text-decoration: underline;
+}
+
+.f1{
+    font-family: Overdoz, sans-serif;
+    text-align: left;
+    font-size: 30px;
+}
+
+.f2{
+    font-family: Leo, sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+.f3{
+    font-family: Rosarium, sans-serif;
+    text-align: right;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+img {
+    height: 300px;
+    width: 400px;
+    border-radius: 15px;
+}

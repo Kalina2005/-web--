@@ -79,7 +79,7 @@ a:hover:before {
   bottom: 0;
   width: 50px;
   height: 50px;
-  margin-left: 1000px;
+  margin-left: 100px;
   background-color: rgb(28, 83, 235);
   border-radius: 50%;
   animation: bounce 2.5s cubic-bezier(0.67, 0.18, 0.99, 0.25) forwards;
